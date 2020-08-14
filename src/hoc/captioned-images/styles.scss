@@ -1,7 +1,7 @@
 @import '../../core/constants.scss';
 
 .#{$root-element} {
-  --caption-background-color: rgba(0, 0, 0, 0.15);
+  --caption-background-color: #004065;
 
   &__content {
     [data-type='caption'] {
