@@ -5,13 +5,13 @@
   "main": "dist/index.js",
   "author": "Rafael Caferati",
   "license": "MIT",
-  "homepage": "https://github.com/rcaferati/react-awesome-slider",
+  "homepage": "https://github.com/FrideyAlpha/react-awesome-slider",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rcaferati/react-awesome-slider"
+    "url": "https://github.com/FrideyAlpha/react-awesome-slider"
   },
   "bugs": {
-    "url": "https://github.com/rcaferati/react-awesome-slider/issues"
+    "url": "https://github.com/FrideyAlpha/react-awesome-slider/issues"
   },
   "scripts": {
     "start": "webpack-dev-server -d --config webpack.demo.config.js",
